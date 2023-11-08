@@ -139,7 +139,7 @@ footer {
     top: 0px;
     left: 0px;
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url(../images/eren\ back\ 2.jpg);
+    background-image: url(../images/Luffy.jpeg);
     background-repeat: no-repeat;
     background-size: 55vh;
     background-position: 40px center;
@@ -147,17 +147,17 @@ footer {
     display: none;
 }
 #lightbox2 {
-    background-image: url(../images/mikasa_eren.png);
+    background-image: url(../images/zoro.jpeg);
     
 }
 
 #lightbox3 {
-    background-image: url(../images/Armin_background.png);
+    background-image: url(../images/sanji.jpeg);
 }
 
 
 #lightbox4 {
-    background-image: url(../images/levi_ackermanback.jpg);
+    background-image: url(../images/nicorobin.jpeg);
 }
 
 
