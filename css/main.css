@@ -95,15 +95,15 @@ article p, #instruction p{
     background-image: url('../images/onepiece_sprite.png'); 
 }
 
-#mikasa {
+#zoro {
     background-position: -300px 0;
 }
 
-#armin {
+#sanji {
     background-position: -600px 0;
 }
 
-#levi {
+#nico {
     background-position: -900px 0;
 }
 
@@ -112,7 +112,7 @@ article p, #instruction p{
 
 
 
-#cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
+#luffy:hover, #zoro:hover, #sanji:hover, #nico:hover {
     background-position-y: -300px;
 }
 
