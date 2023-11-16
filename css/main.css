@@ -119,7 +119,11 @@ article p, #instruction p{
 /*---Footer rules---*/
 
 footer {
+
+    color:aliceblue;
+
     color:rgb(46, 130, 204);
+
     padding: 20px 0;
     text-align: center;
 
@@ -129,7 +133,11 @@ footer {
     position: sticky;
     top: 100%;
     height: 80px;
+
+    background-color:  rgb(40, 37, 37);
+
     background-color:  rgb(133, 96, 96);
+
 }
 
 .lightbox{
